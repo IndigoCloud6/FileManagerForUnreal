@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.FileManagerForUnreal.cpp.obj": [
+			"FileManagerForUnreal.cpp.obj",
+			"FileManagerForUnrealBPLibrary.cpp.obj"
+		],
+		"Module.FileManagerForUnreal.gen.cpp.obj": [
+			"FileManagerForUnreal.init.gen.cpp.obj",
+			"FileManagerForUnrealBPLibrary.gen.cpp.obj"
+		]
+	}
+}

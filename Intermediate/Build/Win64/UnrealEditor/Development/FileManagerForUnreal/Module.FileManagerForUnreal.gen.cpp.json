@@ -1,0 +1,20 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\unreal_projects\\my_c\\plugins\\filemanagerforunreal\\intermediate\\build\\win64\\unrealeditor\\development\\filemanagerforunreal\\module.filemanagerforunreal.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal_projects\\my_c\\intermediate\\build\\win64\\my_ceditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\unreal_projects\\my_c\\plugins\\filemanagerforunreal\\intermediate\\build\\win64\\unrealeditor\\development\\filemanagerforunreal\\definitions.filemanagerforunreal.h",
+            "e:\\unreal_projects\\my_c\\plugins\\filemanagerforunreal\\intermediate\\build\\win64\\unrealeditor\\inc\\filemanagerforunreal\\filemanagerforunreal.init.gen.cpp",
+            "e:\\unreal_projects\\my_c\\plugins\\filemanagerforunreal\\intermediate\\build\\win64\\unrealeditor\\inc\\filemanagerforunreal\\filemanagerforunrealbplibrary.gen.cpp",
+            "e:\\unreal_projects\\my_c\\plugins\\filemanagerforunreal\\source\\filemanagerforunreal\\public\\filemanagerforunrealbplibrary.h",
+            "d:\\program files\\epic games\\ue_5.0\\engine\\source\\developer\\desktopplatform\\public\\desktopplatformmodule.h",
+            "d:\\program files\\epic games\\ue_5.0\\engine\\source\\developer\\desktopplatform\\public\\idesktopplatform.h",
+            "d:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\hal\\filemanagergeneric.h",
+            "e:\\unreal_projects\\my_c\\plugins\\filemanagerforunreal\\intermediate\\build\\win64\\unrealeditor\\inc\\filemanagerforunreal\\filemanagerforunrealbplibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

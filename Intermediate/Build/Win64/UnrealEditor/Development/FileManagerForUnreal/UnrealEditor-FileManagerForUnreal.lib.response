@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-FileManagerForUnreal.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Unreal_Projects\my_c\Intermediate\Build\Win64\my_cEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Unreal_Projects\my_c\Plugins\FileManagerForUnreal\Intermediate\Build\Win64\UnrealEditor\Development\FileManagerForUnreal\Module.FileManagerForUnreal.cpp.obj"
+"E:\Unreal_Projects\my_c\Plugins\FileManagerForUnreal\Intermediate\Build\Win64\UnrealEditor\Development\FileManagerForUnreal\Module.FileManagerForUnreal.gen.cpp.obj"
+"E:\Unreal_Projects\my_c\Plugins\FileManagerForUnreal\Intermediate\Build\Win64\UnrealEditor\Development\FileManagerForUnreal\Default.rc2.res"
+/OUT:"E:\Unreal_Projects\my_c\Plugins\FileManagerForUnreal\Intermediate\Build\Win64\UnrealEditor\Development\FileManagerForUnreal\UnrealEditor-FileManagerForUnreal.lib"
